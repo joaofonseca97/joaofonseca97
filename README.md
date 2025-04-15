@@ -1,6 +1,5 @@
 ## Hi there 👋, my name is João, i'm a Brazilian developer currrently living in Curitiba. I'm 27 years old and i am currently looking for work opportunities and making new friends in the IT world. 
 
-Here are some ideas to get you started:
 - 🔭 I’m currently looking for an opportunity
 - 🌱 I’m currently learning Java and C#
 - 💬 Ask me about anything.
